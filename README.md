@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, my name is Sebastian.
 
-<!--
-**Skrexz/Skrexz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend developer and learning frontend.
 
-Here are some ideas to get you started:
+### I Trying to be better every day. I love this.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tecnologies Used
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-icon.svg"/>    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg"/>
+  <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.html"/>   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg"/>
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg"/>
+
+  - Version Control
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-icon.svg"/>
+
+### Lenguages
+
+- English: B2
+- French: A2
+- Portuguese: A2
