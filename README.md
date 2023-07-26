@@ -1,6 +1,6 @@
 <div id="header" aling="center">
  <p align="center">
- <img  src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="200" />
+ <img  src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="300" />
  </p>
   <h1 align="center"> Hi, my name is Sebastian.</h1>
   <h2 align="center"> Backend developer and learning frontend. I Trying to be better every day. I love this.</h2>
