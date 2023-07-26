@@ -1,5 +1,5 @@
 <div id="header" aling="center">
- <img align ="center" src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" width="400" />
+ <img  src="https://media.giphy.com/media/T7Qx28nEdo9NK/giphy.gif" align ="center" width="400" />
   <h1 align="center"> Hi, my name is Sebastian.</h1>
   <h2 align="center"> Backend developer and learning frontend. I Trying to be better every day. I love this.</h2>
 </div>
