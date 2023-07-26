@@ -11,7 +11,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>  
  
   - Version Control
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
 
 ### Lenguages
 
