@@ -15,6 +15,6 @@
 
 ### Lenguages
 
-- English: B2
+- English: B1
 - French: A2
 - Portuguese: A2
