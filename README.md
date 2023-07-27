@@ -1,6 +1,6 @@
 <div id="header" aling="center">
  <p align="center">
- <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJwcTF3b3BmcmhndHR4a2tnYmZicTN2dnFrM2VuaHJlMmhweXdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwJhwgfpmTKNErbzRv/giphy.gif" width="700" height="500" />
+ <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJwcTF3b3BmcmhndHR4a2tnYmZicTN2dnFrM2VuaHJlMmhweXdlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwJhwgfpmTKNErbzRv/giphy.gif" width="200" height="1000" />
  </p>
   <h1 align="center"> Hi, my name is Sebastian.</h1>
   <h2 align="center"> Backend developer and learning frontend. I Trying to be better every day. I love this.</h2>
