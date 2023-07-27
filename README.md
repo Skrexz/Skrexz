@@ -9,7 +9,7 @@
 - Tecnologies Used
  
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.html"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/> 
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
 
  - Version Control
