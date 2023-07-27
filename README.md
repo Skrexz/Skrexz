@@ -5,13 +5,13 @@
   <h1 align="center"> Hi, my name is Sebastian.</h1>
   <h2 align="center"> Backend developer and learning frontend. I Trying to be better every day. I love this.</h2>
 </div>
-
+ <section>
 - Tecnologies Used
   
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
-
+</section>
   <section>
    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
